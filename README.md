@@ -1,9 +1,7 @@
 # test_front_scotia
 Evaluación
-
 ----------------------------------------------
 Para visualizar el ejercicio 7 ejecutar npm run build
-
 Características
 configuración con babel
 emma script 6
