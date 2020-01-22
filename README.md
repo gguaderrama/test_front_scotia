@@ -2,10 +2,10 @@
 Evaluación
 ----------------------------------------------
 Para visualizar el ejercicio 7 ejecutar npm run build
-Características
-configuración con babel
-emma script 6
-axios
+-> Características
+- configuración con babel
+- emma script 6
+- axios
 ----------------------------------------------
 
 1. Verificar Ejercicio1.html
