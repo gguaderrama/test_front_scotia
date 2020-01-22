@@ -25,8 +25,8 @@ https://github.com/gguaderrama/front/blob/master/src/components/commons/TableCRU
 
 5. const y let 
 
-const es una cantante la cual no cambia su valor 
-let : Es una variable que cambiar su valor, pero solo viviráen el bloque donde fue declarada.
+- const es una cantante la cual no cambia su valor 
+- let se basa en la declaración de una variable que cambia su valor, pero solo vivirá en el bloque donde fue declarada.
 
 
 function const (){
