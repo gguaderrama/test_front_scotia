@@ -14,17 +14,14 @@ Para visualizar el ejercicio 7 ejecutar npm run build
 
 4.  Los patrones de diseño son los siguientes :
 
-Patrón Object Literals
-Patrón Module
-Patrón Prototype
-
+- Patrón Object Literals
+- Patrón Module
+- Patrón Prototype
 
 - El patron de diseño que más he utilizado es el Patrón Object Literals
 
 Básicamente se trata de un JSON, permite el código de manera organizada. Es similar a la contruccón de un json
-
 https://github.com/gguaderrama/front/blob/master/src/components/commons/TableCRUD.jsx
-
 
 5. const y let 
 
@@ -45,4 +42,5 @@ function let(){
  console.log(nombre);  
 }
 
-6. 
+6. Declarativo 
+   Imperativo
