@@ -1,0 +1,29 @@
+{
+  "name": "test_front_scotia",
+  "version": "1.0.0",
+  "description": "Evaluacion",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguaderrama/test_front_scotia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gguaderrama/test_front_scotia/issues"
+  },
+  "homepage": "https://github.com/gguaderrama/test_front_scotia#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "axios": "^0.19.1"
+  }
+}
